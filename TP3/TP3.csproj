@@ -78,6 +78,7 @@
     <Content Include="Perfil.aspx" />
     <Content Include="Producto.aspx" />
     <Content Include="Registro.aspx" />
+    <Content Include="scriptdb\baul.sql" />
     <Content Include="SesionIniciada.aspx" />
     <Content Include="Utilidades\Anun.jpg" />
     <Content Include="Utilidades\Moda.jpg" />
